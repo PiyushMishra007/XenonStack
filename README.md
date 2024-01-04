@@ -1,5 +1,5 @@
-First intall npm modules in both in both client and server folder
+first intall npm modules in both in both client and server folder
 After tha run both the client and server using npm start
-![Screenshot (57)](https://github.com/PiyushMishra007/XenonStack/assets/79704147/1db6bb3b-b6ac-4856-9a1f-05fb17415d70)
-![Screenshot (58)](https://github.com/PiyushMishra007/XenonStack/assets/79704147/dcdce176-7198-458f-ade9-782759ca349a)
-![Screenshot (59)](https://github.com/PiyushMishra007/XenonStack/assets/79704147/5075891d-4c00-4706-8428-e3d3238c6e9f)
+![Screenshot (57)](https://github.com/PiyushMishra007/XenonStack/assets/79704147/f3644f59-3c77-43c0-9eaf-7b6bb52b0e69)
+![Screenshot (58)](https://github.com/PiyushMishra007/XenonStack/assets/79704147/9664253f-d37f-4f28-8a33-0c30c7a693df)
+![Screenshot (59)](https://github.com/PiyushMishra007/XenonStack/assets/79704147/8ce90ef0-1cb1-48dc-8ff5-0e569c98ba9a)
